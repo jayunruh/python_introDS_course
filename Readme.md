@@ -7,9 +7,10 @@ The goal of this course is to provide a brief introduction to python with the go
 * [Unworked Homework](intro_to_python01_homework.ipynb)
 * [Worked Homework](intro_to_python01_worked.ipynb)
 
-[Intro to Python 2](intro_to_python_cont.ipynb)
+[Intro to Python 2](python_class_02.ipynb)
 
-* Homework still to be posted
+* [Unworked Homework](python_class_02_homework.ipynb)
+* [Worked Homework](python_class_02_homework_worked.ipynb)
 
 [Intro to Numpy](intro_to_numpy.ipynb)
 
