@@ -19,6 +19,9 @@ Here are the lessons:
 * [Unworked Homework](intro_numpy_homework.ipynb)
 * [Worked Homework](intro_numpy_homework_worked.ipynb)
 
+[Intro to pandas](intro_to_python04_pandas-blank.ipynb)
+
+* [Worked Version](intro_to_python04_pandas.ipynb)
+
 Still to come:
-Intro to pandas
 Intro to pandas 2
