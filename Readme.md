@@ -22,6 +22,7 @@ Here are the lessons:
 [Intro to pandas](intro_to_python04_pandas-blank.ipynb)
 
 * [Worked Version](intro_to_python04_pandas.ipynb)
+* [Utilizes zipped here](Data.zip)
 
 Still to come:
 Intro to pandas 2
