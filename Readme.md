@@ -1,6 +1,6 @@
 ## Intro to Python for Data Science Course
 
-The goal of this course is to provide a brief introduction to python with the goal of doing basic data science in pandas.  The course is divided into 5 sessions and will utilize Jupyter Notebooks.  Practice is crucial to learning programming and we have therefore included worked and unworked homework for each lesson.  For best results only look at the worked homework after you have spent a significant amount of time attempting the problem sets. Credit to Jonathan Russell, Andrew Price, Sean McKinney (https://github.com/jouyun), and Chris Wood (https://github.com/cwood1967) for collaboration on the notebooks.
+The goal of this course is to provide a brief introduction to python with the goal of doing basic data science in pandas.  The course is divided into 5 sessions and will utilize Jupyter Notebooks.  Practice is crucial to learning programming and we have therefore included worked and unworked homework for each lesson.  For best results only look at the worked homework after you have spent a significant amount of time attempting the problem sets. Credit to Jonathan Russell, Andrew Price, Charles McAnany (https://github.com/mmtrebuchet), Sean McKinney (https://github.com/jouyun), and Chris Wood (https://github.com/cwood1967) for collaboration on the notebooks.
 
 Here are the lessons:
 
